@@ -1,11 +1,11 @@
 # Site settings
 author: Jeremiah Rodden
-title: 
+title: Growing Ideas
 header-img: img/home-bg.png
 email: jrodden1@gmail.com
 copyright_name: Jeremiah Rodden
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The musings of a growing learner.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jrodden1
