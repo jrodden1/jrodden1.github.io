@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Fetching Information from an API in Ruby for a CLI"
-date:       2019-07-11 19:45:04 +0000
+date:       2019-07-11 15:45:05 -0400
 permalink:  fetching_information_from_an_api_in_ruby_for_a_cli
 ---
 
