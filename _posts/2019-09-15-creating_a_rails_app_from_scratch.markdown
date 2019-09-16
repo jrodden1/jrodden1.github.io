@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Creating a Rails App from Scratch"
-date:       2019-09-16 03:54:06 +0000
+date:       2019-09-15 23:54:07 -0400
 permalink:  creating_a_rails_app_from_scratch
 ---
 
