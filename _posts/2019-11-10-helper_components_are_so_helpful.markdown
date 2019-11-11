@@ -59,7 +59,8 @@ Then I was able to import these into my various files.  One example where I impo
 import React from 'react';
 import { Component } from 'react'
 import { Card, Button, Row, Col } from 'react-bootstrap'
-import { senderInfo, receiverInfo, formattedCost } from '../../helpers/PackageHelpers’  // <— Helpers from PackageHelpers
+import { senderInfo, receiverInfo, formattedCost } from '../../helpers/PackageHelpers’  
+// the line above imports some of the helpers from PackageHelpers!
 ```
 
 After importing them, I could utilize them by simply using their imported name.  
