@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Using Gatsby for a Personal Portfolio Site"
-date:       2019-12-05 22:40:17 +0000
+date:       2019-12-05 17:40:18 -0500
 permalink:  using_gatsby_for_a_personal_portfolio_site
 ---
 
